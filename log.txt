@@ -1,0 +1,38 @@
+2023-05-05 13:33:23.225550 Found Nothing!
+2023-05-05 13:34:50.628756 Found Nothing!
+2023-05-05 13:35:20.796788 create D:\ToDir\6701\2305030 wang xiu ling - A
+2023-05-05 13:35:44.958844 Found Nothing!
+2023-05-05 13:35:55.243646 moved D:\Downloads\2305030_A1VMATa-QA1_Dose.dcm to D:\ToDir\6701\2305030 wang xiu ling - A\2305030_A1VMATa-QA1_Dose.dcm
+2023-05-05 13:35:55.243646 moved D:\Downloads\2305030_A1VMATa-QA1.dcm to D:\ToDir\6701\2305030 wang xiu ling - A\2305030_A1VMATa-QA1.dcm
+2023-05-05 13:37:29.984281 create D:\ToDir\6701\2305030-wang xiu ling-A
+2023-05-05 13:37:29.985283 moved D:\Downloads\2305030_A1VMATa-QA1_Dose.dcm to D:\ToDir\6701\2305030-wang xiu ling-A\2305030_A1VMATa-QA1_Dose.dcm
+2023-05-05 13:37:29.985283 moved D:\Downloads\2305030_A1VMATa-QA1.dcm to D:\ToDir\6701\2305030-wang xiu ling-A\2305030_A1VMATa-QA1.dcm
+2023-05-05 13:43:31.776907 Found Nothing!
+2023-05-05 13:43:49.131336 moved D:\Downloads\2305030_A1VMATa-QA1_Dose.dcm to D:\ToDir\6701\2305030-wang xiu ling-A\2305030_A1VMATa-QA1_Dose.dcm
+2023-05-05 13:43:49.133336 moved D:\Downloads\2305030_A1VMATa-QA1.dcm to D:\ToDir\6701\2305030-wang xiu ling-A\2305030_A1VMATa-QA1.dcm
+2023-05-05 15:33:04.981867 Found Nothing!
+2023-05-05 15:38:13.519867 processing Monaco QA!
+2023-05-05 15:38:13.519867 Found Nothing!
+2023-05-05 15:38:59.526141 processing Monaco QA!
+2023-05-05 15:38:59.526141 Found Nothing!
+2023-05-05 15:39:39.034150 processing Monaco QA!
+2023-05-05 15:39:39.034150 Found Nothing!
+2023-05-05 15:39:39.034150 processing TOMO QA!
+2023-05-05 15:39:39.038150 Not found the corresponding plan file, will do nothing!
+2023-05-05 15:40:00.696914 processing Monaco QA!
+2023-05-05 15:40:00.696914 Found Nothing!
+2023-05-05 15:40:00.696914 processing TOMO QA!
+2023-05-05 15:40:00.701914 Not found the corresponding plan file, will do nothing!
+2023-05-05 15:40:59.856513 processing Monaco QA!
+2023-05-05 15:40:59.856513 Found Nothing!
+2023-05-05 15:40:59.856513 processing TOMO QA!
+2023-05-05 15:50:30.649923 processing Monaco QA!
+2023-05-05 15:50:30.649923 Found Nothing!
+2023-05-05 15:50:30.649923 processing TOMO QA!
+2023-05-05 15:50:30.656920 create D:\Downloads\TOMO\ToDir\0210655\1505141-zhang xiao li-Plan_01
+2023-05-05 15:50:30.656920 moved D:\Downloads\TOMO\RD.1.2.826.0.1.3680043.2.200.1828438068.425.50648.445.dcm to D:\Downloads\TOMO\ToDir\0210655\1505141-zhang xiao li-Plan_01\RD.1.2.826.0.1.3680043.2.200.1828438068.425.50648.445.dcm
+2023-05-05 15:50:30.657919 moved D:\Downloads\TOMO\RP.1.2.826.0.1.3680043.2.200.1773546489.56536.972.37968.640.dcm to D:\Downloads\TOMO\ToDir\0210655\1505141-zhang xiao li-Plan_01\RP.1.2.826.0.1.3680043.2.200.1773546489.56536.972.37968.640.dcm
+list index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of rangelist index out of range2023-05-08 19:09:01.338867 processing Monaco QA!
+2023-05-08 19:09:05.908884 Found Nothing!
+2023-05-08 19:09:05.908884 processing TOMO QA!
+2023-05-08 19:09:32.990615 Found Nothing!
